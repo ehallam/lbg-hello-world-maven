@@ -35,7 +35,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.qa.Main</mainClass>
+                            <mainClass>com.qa.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
